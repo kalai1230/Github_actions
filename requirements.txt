@@ -1,1 +1,6 @@
-python==3.2
+# Python version
+python==3.8
+
+# Other dependencies
+flask==2.0.1
+requests==2.26.0
