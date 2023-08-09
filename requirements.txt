@@ -1,5 +1,5 @@
 # Python version
-python==3.8
+python==3.10.11
 
 # Other dependencies
 flask==2.0.1
