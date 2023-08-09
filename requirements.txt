@@ -1,4 +1,4 @@
 # Python version
 py==1.11.0
-num1 = 5
-num2 = 3
+num1 == 5
+num2 == 3
